@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BelajarFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="smartphone">
+        <item>max pro m1</item>
+        <item>redmi note 5</item>
+        <item>nokia 5.1 plus</item>
+        <item>galaxy s8</item>
+        <item>xiaomi mia2 lite</item>
+
+    </string-array>
+</resources>
